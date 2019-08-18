@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Simon Bruce",
+    "classifications": [ "Azure Functions", "Solution", "Dependency Injection", "DI" ],
+    "identity": "Blacksun1.FuncDI",
+    "name": "Azure Functions with Dependency Injection",
+    "shortName": "funcdi",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "Blacksun1.FuncDI",
+    "preferNameDirectory": true
+}

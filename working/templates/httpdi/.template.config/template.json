@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Simon Bruce",
+    "classifications": [ "Azure Function", "Trigger", "Http", "Dependency Injection", "DI" ],
+    "identity": "Blacksun1.HttpDI",
+    "name": "HttpTrigger with Dependency Injection",
+    "shortName": "httpdi",
+    "tags": {
+        "language": "C#",
+        "type": "item"
+    },
+    "sourceName": "Blacksun1FuncDI"
+}
